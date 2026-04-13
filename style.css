@@ -4,3 +4,17 @@
   box-sizing: border-box;
 }
 
+ body {
+  font-family: sans-serif;
+  background-color: rgb(71, 5, 224);
+  color: #333;
+  text-emphasis: none;
+  
+}
+
+h2 {
+  font-size: 25px;
+  padding: 5px;
+  text-transform: uppercase;
+  text-decoration: dashed;
+}
