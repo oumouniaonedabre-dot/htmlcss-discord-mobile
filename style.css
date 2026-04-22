@@ -9,6 +9,16 @@ html {
   background-color: rgb(71, 5, 224);
   color: white;
 }
+
+body {
+
+  background-color: white;
+}
+ .container {
+ width: 512px;
+   background-color: rgb(71, 5, 224);
+  }
+
  header {
   margin-bottom: 50px;
 }
